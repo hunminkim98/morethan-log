@@ -6,6 +6,7 @@ const CONFIG = {
     role: "MS",
     bio: "Biomechanics and Markerless Motion Capture",
     email: "gns5758@inha.edu",
+    linkedin: "morethanmin",
     github: "https://github.com/hunminkim98",
     instagram: "https://www.instagram.com/min__2_2/",
   },
