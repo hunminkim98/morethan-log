@@ -1,14 +1,14 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "HunMinKim",
+    name: "HunMin Kim",
     image: "/HunMin.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "MS",
-    bio: "Biomechanics and Markerless Motion Capture",
+    role: "Master Student",
+    bio: "Biomechanics and Markerless",
     email: "gns5758@inha.edu",
-    linkedin: "morethanmin",
+    linkedin: "",
     github: "hunminkim98",
-    instagram: "https://www.instagram.com/min__2_2/",
+    instagram: "min__2_2",
   },
   projects: [
     {
