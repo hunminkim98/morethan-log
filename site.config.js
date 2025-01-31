@@ -4,7 +4,7 @@ const CONFIG = {
     name: "HunMin Kim",
     image: "/toryy.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Master Student",
-    bio: "Biomechanics and Markerless",
+    bio: "Interested in markerless motion capture for biomechanics",
     email: "gns5758@inha.edu",
     linkedin: "",
     github: "hunminkim98",
