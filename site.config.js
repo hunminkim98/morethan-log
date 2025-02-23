@@ -6,9 +6,10 @@ const CONFIG = {
     role: "master's student",
     bio: "Interested in markerless motion capture for biomechanics",
     email: "gns5758@inha.edu",
-    linkedin: "www.linkedin.com/in/hunmin-kim-330886331",
+    linkedin: "hunmin-kim-330886331",
     github: "hunminkim98",
     instagram: "min__2_2",
+    oldBlog: "https://blog.naver.com/hunminkim98",
   },
   projects: [
     {
